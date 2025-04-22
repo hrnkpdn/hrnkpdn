@@ -4,9 +4,9 @@ As an MIS student, I am exploring the fields of data science, artificial intelli
 
 ---
 
-## Languages & Tools
+# Languages
 
-- Python, C, SQL, Java
+Python, C, SQL, Java
 
 ---
 
