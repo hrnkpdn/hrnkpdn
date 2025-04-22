@@ -8,6 +8,7 @@ As an MIS student, I am exploring the fields of data science, artificial intelli
 
 - Python, C, SQL, Java
 
+--
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hrnkpdn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunkapdan)
