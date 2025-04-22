@@ -6,13 +6,9 @@ As an MIS student, I am exploring the fields of data science, artificial intelli
 
 ## Languages & Tools
 
-- Python, C, SQL  
-- Java, Html, Css
+- Python, C, SQL, Java
 
 ---
-
-  
-## Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hrnkpdn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunkapdan)
