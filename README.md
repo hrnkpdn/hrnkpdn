@@ -9,17 +9,10 @@ Exploring ML/DL and time-series analysis
 ## Connect with me
 
 
-<a href="mailto:hrnkpdn@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hrnkpdn@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarunKapdan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunkapdan)
 
-<a href="https://github.com/HarunKapdan">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/harunkapdan">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 ---
 
 ## Languages & Tools
