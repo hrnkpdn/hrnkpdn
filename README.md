@@ -8,10 +8,17 @@ Exploring ML/DL and time-series analysis
 
 ## Connect with me
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hrnkpdn@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/HarunKapdan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunkapdan)
+<p align="left">
+  <a href="mailto:hrnkpdn@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" height="40"/>
+  </a>
+  <a href="https://github.com/HarunKapdan">
+    <img src="https://cdn.simpleicons.org/github/000000" alt="github" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harunkapdan">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="linkedin" height="40"/>
+  </a>
+</p>
 
 ---
 
